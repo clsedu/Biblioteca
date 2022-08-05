@@ -53,7 +53,7 @@ public class FrmLoginVIEW extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Ubuntu", 1, 24)); // NOI18N
         jLabel1.setForeground(java.awt.Color.white);
-        jLabel1.setText("Login Usuário");
+        jLabel1.setText("Login Usuários");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
